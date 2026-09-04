@@ -26,6 +26,30 @@ Whether it's an emergency pipe leak, electrical wiring replacement, or deep home
 
 ---
 
+<img width="1901" height="955" alt="image" src="https://github.com/user-attachments/assets/3470a79d-ea95-48e9-89c8-46c0917d0800" />
+
+<img width="1617" height="971" alt="image" src="https://github.com/user-attachments/assets/2f0478bd-93ec-4ebe-b7ba-44821ed22e17" />
+
+<img width="1898" height="1078" alt="image" src="https://github.com/user-attachments/assets/ef409733-cc67-4e4a-ad7f-e365bad5dc3b" />
+
+<img width="1900" height="1078" alt="image" src="https://github.com/user-attachments/assets/ade1cdd4-4386-4ebe-8e43-7ef6a18bd3ab" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9dfe0add-f67f-41fc-902b-bd513166b6c2" />
+
+<img width="1738" height="1078" alt="image" src="https://github.com/user-attachments/assets/103f958e-9cfc-417d-86e7-48c5eb08182b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c1fdf4f-49ab-45cf-a9ed-d6022528bad6" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64213acf-ecae-4ed8-8dd7-8030cb3ef726" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cbdc57f-f3e3-4e28-be0c-e0ee3fdd16b1" />
+
+<img width="1896" height="1078" alt="image" src="https://github.com/user-attachments/assets/e350854d-6965-4f72-84f3-02ecf55ba413" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c06c99f-1293-43a7-81ca-40c4b3920153" />
+
+---
+
 ## ✨ Core Features
 
 ### 🎨 1. SaaS & Editorial UI/UX
@@ -203,5 +227,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <strong>Omkar Narsale</strong></sub>
+  <sub>Built with ❤️ by <strong>Yash Patil</strong></sub>
 </div>
