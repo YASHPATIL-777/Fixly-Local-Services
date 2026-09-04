@@ -69,7 +69,10 @@ Whether it's an emergency pipe leak, electrical wiring replacement, or deep home
 - **Step 1: Request Creation**: Customers submit detailed problem titles, descriptions, schedules, and addresses.
 - **Step 2: Technician Review**: Professionals receive requests in their dashboard with `[Accept]` or `[Reject]` actions.
 - **Step 3: Service Lifecycle**: Real-time progress updates through status stages:
-  $$\text{PENDING} \longrightarrow \text{ACCEPTED} \longrightarrow \text{IN\_PROGRESS} \longrightarrow \text{COMPLETED}$$
+
+**Service Status Flow:**
+
+`PENDING` → `ACCEPTED` → `IN_PROGRESS` → `COMPLETED`
 
 ### ⭐ 5. Ratings, Reviews & Recalculation Engine
 - Customers rate completed bookings ($1-5$ stars) and leave written feedback.
